@@ -2,7 +2,7 @@
 To build the application, run the following command: `mvn clean install`
 
 ## Instructions for Running
-Open terminal and run command `mvn spring-boot:run` or open the Drone Fleet Management Service application, in your IDE and execute it from there.
+Open terminal and run command `mvn spring-boot:run` or open the Drone Service API application, in your IDE and execute it from there.
 
 ## How to Access the In-Memory H2 Database
 To access the in-memory H2 database, go to: `http://localhost:8080/h2-console`
